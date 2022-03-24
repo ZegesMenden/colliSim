@@ -1,5 +1,5 @@
 import numpy as np
-from physics import *
+from core.physics import *
 
 def init_polygon_vertex_positions(sides: int = 3, radius: float = 1.0):
     ret = []

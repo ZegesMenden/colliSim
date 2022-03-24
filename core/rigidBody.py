@@ -1,7 +1,6 @@
-from math import dist
 import numpy as np
-from physics import *
-from shapes import *
+from core.physics import *
+from core.shapes import *
 
 class rigidBody:
 
